@@ -1,5 +1,5 @@
 import 'whatwg-fetch';
-import 'es6-promise/auto';
+import 'core-js/modules/es.promise';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
